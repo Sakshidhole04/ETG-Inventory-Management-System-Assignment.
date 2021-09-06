@@ -5,14 +5,16 @@ This repository is having all the codes with json files for making an Inventory 
 1.I've used JSON file system for it
 2.New inventory can be added
 3.Purchase can be done
-4.
+4.Billing the Products
 
+####Feature
 We've added 5 features per product
-1.Product
+1.Product ID
 2.Name of product
 3.Price
 4.Quan
 5.Manufacturer comp
+6.Phone no
 
 My Project can do following things
 1.Generate Bill
