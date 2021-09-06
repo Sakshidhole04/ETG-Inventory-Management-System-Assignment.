@@ -16,7 +16,7 @@ We've added 5 features per product
 5.Manufacturer comp
 6.Phone no
 
-My Project can do following things
+#### My Project can do following things
 1.Generate Bill
 2.Update Inventory
 3.Purchase for Customer
